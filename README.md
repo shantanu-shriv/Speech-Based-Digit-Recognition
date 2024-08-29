@@ -1,4 +1,4 @@
-# **Speech-Based Digit Recognition Using HMM and LBG Algorithms**
+# **Speech-Based Digit Recognition**
 
 ## **Overview**
 
